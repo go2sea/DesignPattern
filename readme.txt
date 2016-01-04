@@ -1,0 +1,21 @@
+20种设计模式的c++实例：
+	 - Visitor 模式（访问者模式）
+	 - Memento 模式（备忘录模式）
+	 - Iterator 模式（迭代器模式）
+	 - State 模式（状态模式）
+	 - Strategy 模式（策略模式）
+	 - Observer 模式（观察者模式）
+	 - Command 模式（命令模式）
+	 - FlyWeight 模式（享元模式）
+	 - ChainOfResponsibility模式（职责链模式）
+	 - Template Method模式（模板方法模式）
+	 - Proxy模式（代理模式）
+	 - Decorator模式（装饰模式）
+	 - Composite模式（组合模式）
+	 - Bridge模式（桥梁模式）
+	 - Adapt模式（适配器模式）
+	 - Singleton模式（单例模式）
+	 - Abstract Factory模式（抽象工厂模式）
+	 - Builder模式（建造者模式）
+	 - Prototype模式（原型模式）
+	 - Factory模式（工厂模式）
